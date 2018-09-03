@@ -1,6 +1,6 @@
 # Jumon
 
-**Jumon** is a client-side technique which enables a social media link in a touchscreen browser to open in the respective social media app (instead of in the browser).
+**Jumon** is a client-side technique utilising `JSON` and `Javascript` which enables a social media link in a touchscreen browser to open in the respective social media app (instead of in the browser).
 
 **Jumon** is a concise javascript which undertakes 3 steps:
 
